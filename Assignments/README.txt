@@ -1,4 +1,4 @@
-This is  read me file which contains information about the assignments.
+1st line. This is  read me file which contains information about the assignments.
 It contains following things---------
 1.HTML assignments
 2.CSS assignments
