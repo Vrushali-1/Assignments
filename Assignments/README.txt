@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-This is  read me file which contains information about the assignments.
-It contains following things """""""
-=======
-1st line. This is  read me file which contains information about the assignments.
+1st line of read me. This is  read me file which contains information about the assignments.
 It contains following things---------
->>>>>>> css-assignments
 1.HTML assignments
 2.CSS assignments
 3.JavaScript assignments
